@@ -8,3 +8,4 @@ CNN is designed by me which it is successful on test data of The MNIST database,
 Restoration of the custom data must be considered for getting successful predictions on the custom data.
 
         
+mce
